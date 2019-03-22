@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[31],{323:function(i,n,a){"use strict";a.r(n),n.default='<h2 id="description">Description<a href="#description" aria-hidden="true"><span class="icon icon-link"></span></a></h2>\n<p>Webpack UI is a WIP aimed at developing a graphic interface to webpack</p>\n'}}]);
